@@ -79,20 +79,20 @@ const Contact = () => {
     {
       icon: <Mail className="text-neon h-5 w-5" />,
       label: "Email",
-      value: "contact@vikramkumar.dev",
-      href: "mailto:contact@vikramkumar.dev",
+      value: "vikramkr0065@gmail.com",
+      href: "mailto:vikramkr0065@gmail.com",
     },
     {
       icon: <Phone className="text-neon h-5 w-5" />,
       label: "Phone",
-      value: "+91 98765 43210",
-      href: "tel:+919876543210",
+      value: "+91 8789148605",
+      href: "tel:+918789148605",
     },
     {
       icon: <MapPin className="text-neon h-5 w-5" />,
-      label: "Location",
-      value: "Bangalore, India",
-      href: "https://maps.google.com/?q=Bangalore,India",
+      label: "Delhi(NCR)",
+      value: "Jhajjhar, Haryana",
+      href: "https://maps.google.com/?q=Haryana,India",
     },
   ];
 
@@ -100,12 +100,12 @@ const Contact = () => {
     {
       icon: <Github className="h-5 w-5" />,
       label: "GitHub",
-      href: "https://github.com/yourusername", // Update with your actual GitHub URL
+      href: "https://github.com/vikramkr-06", // Update with your actual GitHub URL
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/yourprofile", // Update with your actual LinkedIn URL
+      href: "https://linkedin.com/in/vikram-kumar-5831a9343", // Update with your actual LinkedIn URL
     },
   ];
 

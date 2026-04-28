@@ -70,25 +70,25 @@ const AboutSection = () => {
 
   const timeline = [
     {
-      year: "2023",
+      year: "2026",
       title: "Full Stack Developer Internship",
       description: "Developed enterprise applications using React, Node.js, and AWS.",
       icon: <Code className="h-5 w-5" />
     },
     {
-      year: "2022",
+      year: "2025",
       title: "Engineering Leadership Program",
       description: "Selected among top 2% of students for advanced technical leadership training.",
       icon: <Cpu className="h-5 w-5" />
     },
     {
-      year: "2021",
+      year: "2024",
       title: "Started Computer Science Degree",
       description: "Specializing in Cybersecurity and AI at premier engineering institute.",
       icon: <Shield className="h-5 w-5" />
     },
     {
-      year: "2020",
+      year: "2024",
       title: "First Major Project",
       description: "Built a full-stack e-learning platform with React and Firebase.",
       icon: <Code className="h-5 w-5" />
